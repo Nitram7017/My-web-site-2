@@ -1,0 +1,36 @@
+* {
+    margin: 1%;
+    padding: 1%;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box; /* for Safari */
+    -moz-box-sizing: border-box; /* for Firefox */
+  } 
+  video{
+    height: 100%;
+    width: 100%;
+    margin-right: 10px;
+  }
+  body{
+    background:green; 
+    height : 500px;
+    width: 1000px;
+    border:white;
+}
+div{background-color:lightblue;
+    border: 20px;
+    border-style: flex;
+    border-color:red;
+    border-top-right-radius:20px;
+    border-bottom-left-radius:20px;
+    border: top left radius  20px;
+    border-bottom-right-radius:20px;
+    height: 500px;
+    width: 600px;
+}
+h1{
+    color:red;
+}
+img{
+    height:200px;
+    width:200px;
+}
